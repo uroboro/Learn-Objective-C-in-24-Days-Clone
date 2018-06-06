@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'FractionDemo' target in the 'FractionDemo' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

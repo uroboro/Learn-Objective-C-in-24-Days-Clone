@@ -1,0 +1,237 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3DBB495812BEBB1C0012459F /* FractionDemo */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* FractionDemo */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* FractionDemo */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 3DBB496612BEBB1F0012459F /* Code sense */;
+		executables = (
+			3DBB495812BEBB1C0012459F /* FractionDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					609,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316132195;
+			PBXWorkspaceStateSaveDate = 316132195;
+		};
+		perUserProjectItems = {
+			3D1AF3B112D7D11400DD5E05 /* PBXTextBookmark */ = 3D1AF3B112D7D11400DD5E05 /* PBXTextBookmark */;
+			3D1AF3E712D7D2B000DD5E05 /* PBXTextBookmark */ = 3D1AF3E712D7D2B000DD5E05 /* PBXTextBookmark */;
+			3D1AF44512D7DB1200DD5E05 /* PBXTextBookmark */ = 3D1AF44512D7DB1200DD5E05 /* PBXTextBookmark */;
+			3D1AF45D12D7E07E00DD5E05 /* PBXTextBookmark */ = 3D1AF45D12D7E07E00DD5E05 /* PBXTextBookmark */;
+			3D1AF45E12D7E07E00DD5E05 /* PBXTextBookmark */ = 3D1AF45E12D7E07E00DD5E05 /* PBXTextBookmark */;
+			3D1AF45F12D7E07E00DD5E05 /* PBXTextBookmark */ = 3D1AF45F12D7E07E00DD5E05 /* PBXTextBookmark */;
+			3D1AF46012D7E07E00DD5E05 /* PBXTextBookmark */ = 3D1AF46012D7E07E00DD5E05 /* PBXTextBookmark */;
+			3D1AF46112D7E07E00DD5E05 /* PBXTextBookmark */ = 3D1AF46112D7E07E00DD5E05 /* PBXTextBookmark */;
+			3D1AF46212D7E07E00DD5E05 /* PBXTextBookmark */ = 3D1AF46212D7E07E00DD5E05 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3DBB496512BEBB1F0012459F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* FractionDemo.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {994, 406}}";
+			sepNavSelRange = "{475, 0}";
+			sepNavVisRange = "{164, 408}";
+			sepNavWindowFrame = "{{86, 57}, {858, 694}}";
+		};
+	};
+	32A70AAB03705E1F00C91783 /* FractionDemo_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {787, 367}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 166}";
+		};
+	};
+	3D1AF3B112D7D11400DD5E05 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3DBB496712BEBB4D0012459F /* Fraction.h */;
+		name = "Fraction.h: 16";
+		rLen = 0;
+		rLoc = 213;
+		rType = 0;
+		vrLen = 570;
+		vrLoc = 18;
+	};
+	3D1AF3E712D7D2B000DD5E05 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3DBB496812BEBB4D0012459F /* Fraction.m */;
+		name = "Fraction.m: 29";
+		rLen = 0;
+		rLoc = 2599;
+		rType = 0;
+		vrLen = 811;
+		vrLoc = 41;
+	};
+	3D1AF44512D7DB1200DD5E05 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3DBB496712BEBB4D0012459F /* Fraction.h */;
+		name = "Fraction.h: 25";
+		rLen = 73;
+		rLoc = 544;
+		rType = 0;
+		vrLen = 676;
+		vrLoc = 0;
+	};
+	3D1AF45D12D7E07E00DD5E05 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* FractionDemo.m */;
+		name = "FractionDemo.m: 13";
+		rLen = 0;
+		rLoc = 475;
+		rType = 0;
+		vrLen = 818;
+		vrLoc = 55;
+	};
+	3D1AF45E12D7E07E00DD5E05 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* FractionDemo_Prefix.pch */;
+		name = "FractionDemo_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 166;
+		vrLoc = 0;
+	};
+	3D1AF45F12D7E07E00DD5E05 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859EA3029092ED04C91782 /* FractionDemo.1 */;
+		name = "FractionDemo.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1290;
+		vrLoc = 0;
+	};
+	3D1AF46012D7E07E00DD5E05 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859EA3029092ED04C91782 /* FractionDemo.1 */;
+		name = "FractionDemo.1: 16";
+		rLen = 0;
+		rLoc = 795;
+		rType = 0;
+		vrLen = 1290;
+		vrLoc = 0;
+	};
+	3D1AF46112D7E07E00DD5E05 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3DBB496812BEBB4D0012459F /* Fraction.m */;
+		name = "Fraction.m: 36";
+		rLen = 0;
+		rLoc = 1148;
+		rType = 0;
+		vrLen = 1420;
+		vrLoc = 220;
+	};
+	3D1AF46212D7E07E00DD5E05 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3DBB496712BEBB4D0012459F /* Fraction.h */;
+		name = "Fraction.h: 27";
+		rLen = 0;
+		rLoc = 760;
+		rType = 0;
+		vrLen = 1093;
+		vrLoc = 0;
+	};
+	3DBB495812BEBB1C0012459F /* FractionDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FractionDemo;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	3DBB496512BEBB1F0012459F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3DBB496612BEBB1F0012459F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3DBB496712BEBB4D0012459F /* Fraction.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {799, 637}}";
+			sepNavSelRange = "{760, 0}";
+			sepNavVisRange = "{0, 1093}";
+			sepNavWindowFrame = "{{47, 316}, {858, 694}}";
+		};
+	};
+	3DBB496812BEBB4D0012459F /* Fraction.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {799, 1820}}";
+			sepNavSelRange = "{2381, 0}";
+			sepNavVisRange = "{1632, 1347}";
+			sepNavWindowFrame = "{{717, 312}, {858, 694}}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* FractionDemo */ = {
+		activeExec = 0;
+		executables = (
+			3DBB495812BEBB1C0012459F /* FractionDemo */,
+		);
+	};
+	C6859EA3029092ED04C91782 /* FractionDemo.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {787, 1106}}";
+			sepNavSelRange = "{795, 0}";
+			sepNavVisRange = "{0, 1290}";
+		};
+	};
+}

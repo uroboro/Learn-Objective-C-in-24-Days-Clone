@@ -1,0 +1,281 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3D28AA2C14DEE06800589CDE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D28AA2B14DEE06800589CDE /* UIKit.framework */; };
+		3D28AA2E14DEE06800589CDE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D28AA2D14DEE06800589CDE /* Foundation.framework */; };
+		3D28AA3014DEE06800589CDE /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D28AA2F14DEE06800589CDE /* CoreGraphics.framework */; };
+		3D28AA3614DEE06800589CDE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3D28AA3414DEE06800589CDE /* InfoPlist.strings */; };
+		3D28AA3814DEE06800589CDE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D28AA3714DEE06800589CDE /* main.m */; };
+		3D28AA3C14DEE06800589CDE /* ARAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D28AA3B14DEE06800589CDE /* ARAppDelegate.m */; };
+		3D28AA3F14DEE06800589CDE /* ARViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D28AA3E14DEE06800589CDE /* ARViewController.m */; };
+		3D28AA4214DEE06800589CDE /* ARViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3D28AA4014DEE06800589CDE /* ARViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3D28AA2714DEE06700589CDE /* AutoRotate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutoRotate.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D28AA2B14DEE06800589CDE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		3D28AA2D14DEE06800589CDE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		3D28AA2F14DEE06800589CDE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		3D28AA3314DEE06800589CDE /* AutoRotate-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AutoRotate-Info.plist"; sourceTree = "<group>"; };
+		3D28AA3514DEE06800589CDE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		3D28AA3714DEE06800589CDE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3D28AA3914DEE06800589CDE /* AutoRotate-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AutoRotate-Prefix.pch"; sourceTree = "<group>"; };
+		3D28AA3A14DEE06800589CDE /* ARAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ARAppDelegate.h; sourceTree = "<group>"; };
+		3D28AA3B14DEE06800589CDE /* ARAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ARAppDelegate.m; sourceTree = "<group>"; };
+		3D28AA3D14DEE06800589CDE /* ARViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ARViewController.h; sourceTree = "<group>"; };
+		3D28AA3E14DEE06800589CDE /* ARViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ARViewController.m; sourceTree = "<group>"; };
+		3D28AA4114DEE06800589CDE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ARViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3D28AA2414DEE06700589CDE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D28AA2C14DEE06800589CDE /* UIKit.framework in Frameworks */,
+				3D28AA2E14DEE06800589CDE /* Foundation.framework in Frameworks */,
+				3D28AA3014DEE06800589CDE /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3D28AA1C14DEE06700589CDE = {
+			isa = PBXGroup;
+			children = (
+				3D28AA3114DEE06800589CDE /* AutoRotate */,
+				3D28AA2A14DEE06700589CDE /* Frameworks */,
+				3D28AA2814DEE06700589CDE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3D28AA2814DEE06700589CDE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3D28AA2714DEE06700589CDE /* AutoRotate.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3D28AA2A14DEE06700589CDE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3D28AA2B14DEE06800589CDE /* UIKit.framework */,
+				3D28AA2D14DEE06800589CDE /* Foundation.framework */,
+				3D28AA2F14DEE06800589CDE /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3D28AA3114DEE06800589CDE /* AutoRotate */ = {
+			isa = PBXGroup;
+			children = (
+				3D28AA3A14DEE06800589CDE /* ARAppDelegate.h */,
+				3D28AA3B14DEE06800589CDE /* ARAppDelegate.m */,
+				3D28AA3D14DEE06800589CDE /* ARViewController.h */,
+				3D28AA3E14DEE06800589CDE /* ARViewController.m */,
+				3D28AA4014DEE06800589CDE /* ARViewController.xib */,
+				3D28AA3214DEE06800589CDE /* Supporting Files */,
+			);
+			path = AutoRotate;
+			sourceTree = "<group>";
+		};
+		3D28AA3214DEE06800589CDE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3D28AA3314DEE06800589CDE /* AutoRotate-Info.plist */,
+				3D28AA3414DEE06800589CDE /* InfoPlist.strings */,
+				3D28AA3714DEE06800589CDE /* main.m */,
+				3D28AA3914DEE06800589CDE /* AutoRotate-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3D28AA2614DEE06700589CDE /* AutoRotate */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3D28AA4514DEE06800589CDE /* Build configuration list for PBXNativeTarget "AutoRotate" */;
+			buildPhases = (
+				3D28AA2314DEE06700589CDE /* Sources */,
+				3D28AA2414DEE06700589CDE /* Frameworks */,
+				3D28AA2514DEE06700589CDE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AutoRotate;
+			productName = AutoRotate;
+			productReference = 3D28AA2714DEE06700589CDE /* AutoRotate.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3D28AA1E14DEE06700589CDE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 3D28AA2114DEE06700589CDE /* Build configuration list for PBXProject "AutoRotate" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3D28AA1C14DEE06700589CDE;
+			productRefGroup = 3D28AA2814DEE06700589CDE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3D28AA2614DEE06700589CDE /* AutoRotate */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3D28AA2514DEE06700589CDE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D28AA3614DEE06800589CDE /* InfoPlist.strings in Resources */,
+				3D28AA4214DEE06800589CDE /* ARViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3D28AA2314DEE06700589CDE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D28AA3814DEE06800589CDE /* main.m in Sources */,
+				3D28AA3C14DEE06800589CDE /* ARAppDelegate.m in Sources */,
+				3D28AA3F14DEE06800589CDE /* ARViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3D28AA3414DEE06800589CDE /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3D28AA3514DEE06800589CDE /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		3D28AA4014DEE06800589CDE /* ARViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3D28AA4114DEE06800589CDE /* en */,
+			);
+			name = ARViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3D28AA4314DEE06800589CDE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		3D28AA4414DEE06800589CDE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3D28AA4614DEE06800589CDE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AutoRotate/AutoRotate-Prefix.pch";
+				INFOPLIST_FILE = "AutoRotate/AutoRotate-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		3D28AA4714DEE06800589CDE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AutoRotate/AutoRotate-Prefix.pch";
+				INFOPLIST_FILE = "AutoRotate/AutoRotate-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3D28AA2114DEE06700589CDE /* Build configuration list for PBXProject "AutoRotate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D28AA4314DEE06800589CDE /* Debug */,
+				3D28AA4414DEE06800589CDE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3D28AA4514DEE06800589CDE /* Build configuration list for PBXNativeTarget "AutoRotate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3D28AA4614DEE06800589CDE /* Debug */,
+				3D28AA4714DEE06800589CDE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3D28AA1E14DEE06700589CDE /* Project object */;
+}

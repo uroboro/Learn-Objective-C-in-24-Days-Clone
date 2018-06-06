@@ -1,0 +1,268 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3DBB495812BEBB1C0012459F /* FractionDemo */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* FractionDemo */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* FractionDemo */,
+		);
+		codeSenseManager = 3DBB496612BEBB1F0012459F /* Code sense */;
+		executables = (
+			3DBB495812BEBB1C0012459F /* FractionDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					609,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315094354;
+			PBXWorkspaceStateSaveDate = 315094354;
+		};
+		perUserProjectItems = {
+			3DBB497712BEC1320012459F = 3DBB497712BEC1320012459F /* PBXTextBookmark */;
+			3DBB497812BEC1320012459F = 3DBB497812BEC1320012459F /* PBXTextBookmark */;
+			3DBB498112BEC1320012459F = 3DBB498112BEC1320012459F /* PBXTextBookmark */;
+			3DBB498212BEC1320012459F = 3DBB498212BEC1320012459F /* PBXTextBookmark */;
+			3DBB498C12BEC7EA0012459F = 3DBB498C12BEC7EA0012459F /* PBXTextBookmark */;
+			3DBB498D12BEC7EA0012459F = 3DBB498D12BEC7EA0012459F /* PBXTextBookmark */;
+			3DF357A912C7F55C00980246 /* PBXTextBookmark */ = 3DF357A912C7F55C00980246 /* PBXTextBookmark */;
+			3DF357AA12C7F56400980246 /* PBXTextBookmark */ = 3DF357AA12C7F56400980246 /* PBXTextBookmark */;
+			3DF357B312C7F56400980246 /* PBXTextBookmark */ = 3DF357B312C7F56400980246 /* PBXTextBookmark */;
+			3DF357B412C8068A00980246 /* PBXTextBookmark */ = 3DF357B412C8068A00980246 /* PBXTextBookmark */;
+			3DF357B512C8068A00980246 /* PBXTextBookmark */ = 3DF357B512C8068A00980246 /* PBXTextBookmark */;
+			3DF357B612C8068A00980246 /* PBXTextBookmark */ = 3DF357B612C8068A00980246 /* PBXTextBookmark */;
+			3DF357B712C8068A00980246 /* PBXTextBookmark */ = 3DF357B712C8068A00980246 /* PBXTextBookmark */;
+			3DF357B812C8068A00980246 /* PBXTextBookmark */ = 3DF357B812C8068A00980246 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3DBB496512BEBB1F0012459F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* FractionDemo.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {787, 371}}";
+			sepNavSelRange = "{379, 0}";
+			sepNavVisRange = "{0, 540}";
+			sepNavWindowFrame = "{{86, 57}, {858, 694}}";
+		};
+	};
+	3DBB495812BEBB1C0012459F /* FractionDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = FractionDemo;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3DBB496512BEBB1F0012459F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3DBB496612BEBB1F0012459F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3DBB496712BEBB4D0012459F /* Fraction.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {787, 371}}";
+			sepNavSelRange = "{130, 274}";
+			sepNavVisRange = "{0, 404}";
+		};
+	};
+	3DBB496812BEBB4D0012459F /* Fraction.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 532}}";
+			sepNavSelRange = "{545, 0}";
+			sepNavVisRange = "{315, 231}";
+			sepNavWindowFrame = "{{653, 269}, {858, 694}}";
+		};
+	};
+	3DBB497712BEC1320012459F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3DBB496712BEBB4D0012459F /* Fraction.h */;
+		name = "Fraction.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 333;
+		vrLoc = 0;
+	};
+	3DBB497812BEC1320012459F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Passing argument 1 of 'NSLog' from incompatible pointer type";
+		fRef = 3DBB496812BEBB4D0012459F /* Fraction.m */;
+		rLen = 1;
+		rLoc = 24;
+		rType = 1;
+	};
+	3DBB498112BEC1320012459F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3DBB496712BEBB4D0012459F /* Fraction.h */;
+		name = "Fraction.h: 15";
+		rLen = 96;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 339;
+		vrLoc = 0;
+	};
+	3DBB498212BEC1320012459F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3DBB496812BEBB4D0012459F /* Fraction.m */;
+		rLen = 0;
+		rLoc = 657;
+		rType = 0;
+	};
+	3DBB498C12BEC7EA0012459F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3DBB496812BEBB4D0012459F /* Fraction.m */;
+		name = "Fraction.m: 23";
+		rLen = 0;
+		rLoc = 545;
+		rType = 0;
+		vrLen = 369;
+		vrLoc = 237;
+	};
+	3DBB498D12BEC7EA0012459F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3DBB496812BEBB4D0012459F /* Fraction.m */;
+		name = "Fraction.m: 23";
+		rLen = 0;
+		rLoc = 545;
+		rType = 0;
+		vrLen = 611;
+		vrLoc = 0;
+	};
+	3DF357A912C7F55C00980246 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3DBB496812BEBB4D0012459F /* Fraction.m */;
+		name = "Fraction.m: 23";
+		rLen = 0;
+		rLoc = 545;
+		rType = 0;
+		vrLen = 365;
+		vrLoc = 240;
+	};
+	3DF357AA12C7F56400980246 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3DBB496812BEBB4D0012459F /* Fraction.m */;
+		name = "Fraction.m: 23";
+		rLen = 0;
+		rLoc = 545;
+		rType = 0;
+		vrLen = 593;
+		vrLoc = 18;
+	};
+	3DF357B312C7F56400980246 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3DBB496812BEBB4D0012459F /* Fraction.m */;
+		name = "Fraction.m: 23";
+		rLen = 0;
+		rLoc = 545;
+		rType = 0;
+		vrLen = 611;
+		vrLoc = 0;
+	};
+	3DF357B412C8068A00980246 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3DBB496812BEBB4D0012459F /* Fraction.m */;
+		name = "Fraction.m: 23";
+		rLen = 0;
+		rLoc = 545;
+		rType = 0;
+		vrLen = 593;
+		vrLoc = 18;
+	};
+	3DF357B512C8068A00980246 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3DBB496712BEBB4D0012459F /* Fraction.h */;
+		name = "Fraction.h: 9";
+		rLen = 274;
+		rLoc = 130;
+		rType = 0;
+		vrLen = 404;
+		vrLoc = 0;
+	};
+	3DF357B612C8068A00980246 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* FractionDemo.m */;
+		name = "FractionDemo.m: 20";
+		rLen = 0;
+		rLoc = 540;
+		rType = 0;
+		vrLen = 478;
+		vrLoc = 0;
+	};
+	3DF357B712C8068A00980246 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* FractionDemo.m */;
+		name = "FractionDemo.m: 13";
+		rLen = 0;
+		rLoc = 379;
+		rType = 0;
+		vrLen = 540;
+		vrLoc = 0;
+	};
+	3DF357B812C8068A00980246 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3DBB496812BEBB4D0012459F /* Fraction.m */;
+		name = "Fraction.m: 24";
+		rLen = 0;
+		rLoc = 523;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* FractionDemo */ = {
+		activeExec = 0;
+		executables = (
+			3DBB495812BEBB1C0012459F /* FractionDemo */,
+		);
+	};
+}

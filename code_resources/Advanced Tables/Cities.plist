@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>City Population</key>
+	<array>
+		<string>3792621</string>
+		<string>1307402</string>
+		<string>945942</string>
+		<string>805235</string>
+		<string>510365</string>
+		<string>390724</string>
+		<string>365463</string>
+		<string>347483</string>
+		<string>303871</string>
+		<string>291707</string>
+		<string>243916</string>
+		<string>214089</string>
+		<string>212375</string>
+		<string>201165</string>
+		<string>197899</string>
+		<string>196069</string>
+		<string>193365</string>
+		<string>191719</string>
+		<string>189992</string>
+		<string>170883</string>
+		<string>167086</string>
+		<string>163924</string>
+		<string>156663</string>
+		<string>153015</string>
+		<string>152750</string>
+		<string>149058</string>
+		<string>145438</string>
+		<string>144186</string>
+		<string>137122</string>
+		<string>135161</string>
+		<string>124442</string>
+		<string>112580</string>
+		<string>105549</string>
+		<string>105328</string>
+		<string>103701</string>
+		<string>103466</string>
+		<string>103340</string>
+		<string>102372</string>
+		<string>100097</string>
+		<string>99478</string>
+		<string>99171</string>
+		<string>97218</string>
+		<string>93305</string>
+		<string>90173</string>
+		<string>89861</string>
+		<string>89701</string>
+		<string>85331</string>
+		<string>83089</string>
+		<string>82922</string>
+		<string>80048</string>
+		<string>76915</string>
+	</array>
+	<key>City Names</key>
+	<array>
+		<string>Los Angeles</string>
+		<string>San Diego</string>
+		<string>San Jose</string>
+		<string>San Francisco</string>
+		<string>Fresno</string>
+		<string>Oakland</string>
+		<string>Anaheim</string>
+		<string>Bakersfield</string>
+		<string>Riverside</string>
+		<string>Stockton</string>
+		<string>Chula Vista</string>
+		<string>Firemont</string>
+		<string>Irvine</string>
+		<string>Modesto</string>
+		<string>Oxnard</string>
+		<string>Fontana</string>
+		<string>Moreno Valley</string>
+		<string>Glendale</string>
+		<string>Huntington Beach</string>
+		<string>Garden Grove</string>
+		<string>Oceanside</string>
+		<string>Ontario</string>
+		<string>Lancaster</string>
+		<string>Elk Grove</string>
+		<string>Palmdale</string>
+		<string>Pomona</string>
+		<string>Torrance</string>
+		<string>Hayward</string>
+		<string>Pasadena</string>
+		<string>Fullerton</string>
+		<string>Visalia</string>
+		<string>Berkeley</string>
+		<string>Norwalk</string>
+		<string>Carlsbad</string>
+		<string>Richmond</string>
+		<string>Murrieta</string>
+		<string>Burbank</string>
+		<string>Antioch</string>
+		<string>Temecula</string>
+		<string>El Cajon</string>
+		<string>Rialto</string>
+		<string>Clovis</string>
+		<string>Mission Viejo</string>
+		<string>Hesperia</string>
+		<string>Redding</string>
+		<string>Westminster</string>
+		<string>Whittier</string>
+		<string>Alhambra</string>
+		<string>Tracy</string>
+		<string>Lakewood</string>
+		<string>Napa</string>
+	</array>
+</dict>
+</plist>

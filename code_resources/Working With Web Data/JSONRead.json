@@ -1,0 +1,42 @@
+    [
+        {
+            "fname": "Nadene",
+            "lname": "Feehan",
+            "email": "nadene.feehan@gmail.com",
+            "phone": "(152) 555-5321"
+        },
+        {
+            "fname": "Marleen",
+            "lname": "Harding",
+            "email": "marleen@mharding.com",
+            "phone": "(134) 555-1134"
+        },
+        {
+            "fname": "Moon",
+            "lname": "Larusso",
+            "email": "lunarguy@hotmail.com",
+            "phone": "(123) 456-5432"
+        },
+        {
+            "fname": "Scotty",
+            "lname": "Wollman",
+            "email": [
+                "scotty@wollman.com",
+                "beammeup@gmail.com",
+                "s.wollman@bigcorp.com"
+            ],
+            "phone": "(152) 555-5321"
+        },
+        {
+            "fname": "Celest",
+            "lname": "Feehan",
+            "email": "celestial@gmail.com",
+            "phone": "(098) 765-4321"
+        },
+        {
+            "fname": "Saggarth",
+            "lname": "Ramakristhan",
+            "email": "sagar@gmail.com",
+            "phone": "(012) 345-4321"
+        }
+    ]

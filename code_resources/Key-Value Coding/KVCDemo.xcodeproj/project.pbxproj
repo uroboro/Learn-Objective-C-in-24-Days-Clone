@@ -1,0 +1,285 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3DF9A48F1379EA850016AA1F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DF9A48E1379EA850016AA1F /* UIKit.framework */; };
+		3DF9A4911379EA850016AA1F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DF9A4901379EA850016AA1F /* Foundation.framework */; };
+		3DF9A4931379EA850016AA1F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DF9A4921379EA850016AA1F /* CoreGraphics.framework */; };
+		3DF9A4991379EA850016AA1F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3DF9A4971379EA850016AA1F /* InfoPlist.strings */; };
+		3DF9A49C1379EA850016AA1F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DF9A49B1379EA850016AA1F /* main.m */; };
+		3DF9A49F1379EA850016AA1F /* KVCDemoAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DF9A49E1379EA850016AA1F /* KVCDemoAppDelegate.m */; };
+		3DF9A4A21379EA850016AA1F /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3DF9A4A01379EA850016AA1F /* MainWindow.xib */; };
+		3DF9A4A51379EA850016AA1F /* KVCDemoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DF9A4A41379EA850016AA1F /* KVCDemoViewController.m */; };
+		3DF9A4A81379EA850016AA1F /* KVCDemoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3DF9A4A61379EA850016AA1F /* KVCDemoViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3DF9A48A1379EA850016AA1F /* KVCDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KVCDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3DF9A48E1379EA850016AA1F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		3DF9A4901379EA850016AA1F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		3DF9A4921379EA850016AA1F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		3DF9A4961379EA850016AA1F /* KVCDemo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "KVCDemo-Info.plist"; sourceTree = "<group>"; };
+		3DF9A4981379EA850016AA1F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		3DF9A49A1379EA850016AA1F /* KVCDemo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "KVCDemo-Prefix.pch"; sourceTree = "<group>"; };
+		3DF9A49B1379EA850016AA1F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3DF9A49D1379EA850016AA1F /* KVCDemoAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KVCDemoAppDelegate.h; sourceTree = "<group>"; };
+		3DF9A49E1379EA850016AA1F /* KVCDemoAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KVCDemoAppDelegate.m; sourceTree = "<group>"; };
+		3DF9A4A11379EA850016AA1F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		3DF9A4A31379EA850016AA1F /* KVCDemoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KVCDemoViewController.h; sourceTree = "<group>"; };
+		3DF9A4A41379EA850016AA1F /* KVCDemoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KVCDemoViewController.m; sourceTree = "<group>"; };
+		3DF9A4A71379EA850016AA1F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/KVCDemoViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3DF9A4871379EA850016AA1F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DF9A48F1379EA850016AA1F /* UIKit.framework in Frameworks */,
+				3DF9A4911379EA850016AA1F /* Foundation.framework in Frameworks */,
+				3DF9A4931379EA850016AA1F /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3DF9A47F1379EA850016AA1F = {
+			isa = PBXGroup;
+			children = (
+				3DF9A4941379EA850016AA1F /* KVCDemo */,
+				3DF9A48D1379EA850016AA1F /* Frameworks */,
+				3DF9A48B1379EA850016AA1F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3DF9A48B1379EA850016AA1F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3DF9A48A1379EA850016AA1F /* KVCDemo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3DF9A48D1379EA850016AA1F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3DF9A48E1379EA850016AA1F /* UIKit.framework */,
+				3DF9A4901379EA850016AA1F /* Foundation.framework */,
+				3DF9A4921379EA850016AA1F /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3DF9A4941379EA850016AA1F /* KVCDemo */ = {
+			isa = PBXGroup;
+			children = (
+				3DF9A49D1379EA850016AA1F /* KVCDemoAppDelegate.h */,
+				3DF9A49E1379EA850016AA1F /* KVCDemoAppDelegate.m */,
+				3DF9A4A01379EA850016AA1F /* MainWindow.xib */,
+				3DF9A4A31379EA850016AA1F /* KVCDemoViewController.h */,
+				3DF9A4A41379EA850016AA1F /* KVCDemoViewController.m */,
+				3DF9A4A61379EA850016AA1F /* KVCDemoViewController.xib */,
+				3DF9A4951379EA850016AA1F /* Supporting Files */,
+			);
+			path = KVCDemo;
+			sourceTree = "<group>";
+		};
+		3DF9A4951379EA850016AA1F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3DF9A4961379EA850016AA1F /* KVCDemo-Info.plist */,
+				3DF9A4971379EA850016AA1F /* InfoPlist.strings */,
+				3DF9A49A1379EA850016AA1F /* KVCDemo-Prefix.pch */,
+				3DF9A49B1379EA850016AA1F /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3DF9A4891379EA850016AA1F /* KVCDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3DF9A4AB1379EA850016AA1F /* Build configuration list for PBXNativeTarget "KVCDemo" */;
+			buildPhases = (
+				3DF9A4861379EA850016AA1F /* Sources */,
+				3DF9A4871379EA850016AA1F /* Frameworks */,
+				3DF9A4881379EA850016AA1F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = KVCDemo;
+			productName = KVCDemo;
+			productReference = 3DF9A48A1379EA850016AA1F /* KVCDemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3DF9A4811379EA850016AA1F /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 3DF9A4841379EA850016AA1F /* Build configuration list for PBXProject "KVCDemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3DF9A47F1379EA850016AA1F;
+			productRefGroup = 3DF9A48B1379EA850016AA1F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3DF9A4891379EA850016AA1F /* KVCDemo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3DF9A4881379EA850016AA1F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DF9A4991379EA850016AA1F /* InfoPlist.strings in Resources */,
+				3DF9A4A21379EA850016AA1F /* MainWindow.xib in Resources */,
+				3DF9A4A81379EA850016AA1F /* KVCDemoViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3DF9A4861379EA850016AA1F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DF9A49C1379EA850016AA1F /* main.m in Sources */,
+				3DF9A49F1379EA850016AA1F /* KVCDemoAppDelegate.m in Sources */,
+				3DF9A4A51379EA850016AA1F /* KVCDemoViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3DF9A4971379EA850016AA1F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3DF9A4981379EA850016AA1F /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		3DF9A4A01379EA850016AA1F /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3DF9A4A11379EA850016AA1F /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		3DF9A4A61379EA850016AA1F /* KVCDemoViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3DF9A4A71379EA850016AA1F /* en */,
+			);
+			name = KVCDemoViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3DF9A4A91379EA850016AA1F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = "DEBUG=1";
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		3DF9A4AA1379EA850016AA1F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		3DF9A4AC1379EA850016AA1F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "KVCDemo/KVCDemo-Prefix.pch";
+				INFOPLIST_FILE = "KVCDemo/KVCDemo-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		3DF9A4AD1379EA850016AA1F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "KVCDemo/KVCDemo-Prefix.pch";
+				INFOPLIST_FILE = "KVCDemo/KVCDemo-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3DF9A4841379EA850016AA1F /* Build configuration list for PBXProject "KVCDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3DF9A4A91379EA850016AA1F /* Debug */,
+				3DF9A4AA1379EA850016AA1F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3DF9A4AB1379EA850016AA1F /* Build configuration list for PBXNativeTarget "KVCDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3DF9A4AC1379EA850016AA1F /* Debug */,
+				3DF9A4AD1379EA850016AA1F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3DF9A4811379EA850016AA1F /* Project object */;
+}
