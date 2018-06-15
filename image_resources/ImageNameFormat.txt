@@ -1,0 +1,15 @@
+Image Format:
+=-=-=-=-=-=-=
+
+-------------------------------------
+| tutorialName-imageDescription.png |
+-------------------------------------
+
+
+example:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+"rotation-autosizing-ui"
+
+rotation: name of tutorial
+autosizing-ui: description of image
